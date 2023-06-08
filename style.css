@@ -1,0 +1,88 @@
+*{
+    font-family: 'inter';
+    margin: 0px;
+    border: none;
+}
+
+#titulosup{
+    font-weight: bolder;
+}
+
+#divsuperior{
+    background-color: #303030;
+    padding-top: 35px;
+    padding-bottom: 75px;
+}
+
+.textosuperiores{
+    color: #FFFFFF;
+    margin-left: 65px;
+}
+
+#divtitle{
+    margin-top: 75px;
+    padding-bottom: 15px;
+}
+
+#divdadosnum{
+    background-color: #F5F5F5;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding-bottom: 35px;
+    padding-top: 35px;
+    padding-left: 220px;
+}
+
+#divinfo{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding-left: 100px;
+    background-color: #f9f9f9;
+}
+
+#tituloinfo{
+    padding-top: 260px;
+    font-size: 17px;
+}
+
+#textoinfo{
+    font-size: 20px;
+}
+
+#imageminfo{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#tituloform{
+    color: #FFFFFF;
+}
+
+#divform{
+    background-color: #303030;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+input{
+    width: 508px;
+    height: 50px;
+    margin: 25px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+
+button{
+    color: #FFFFFF;
+    background-color: #C07212;
+    width: 286px;
+    height: 60px;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
